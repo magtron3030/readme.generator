@@ -1,5 +1,5 @@
 
-# dskfdsf [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
+# Whats up [![License](https://img.shields.io/badge/License-BSD_2--Clause-orange.svg)](https://opensource.org/licenses/BSD-2-Clause)
 
 ## Table of Contents
 
@@ -18,23 +18,23 @@
 [License](#license)
 
 ## Description
-sdfsfs
+Saying whats up to strangers
 
 ## Installation
-sfdds
+Very carefully
 
 ## Usage
-sdfsf
+Interacting with people we dont know
 
 ## Contributing
-sdfs
+Your mom
 
 ## Test
-sdfsf
+A little of this, little of that
 
 ## Questions
-https://github.com/sdfsf
-sdfds
+https://github.com/www.githubadubdub.com
+maggiemcdizzle@gmail.com
 
 ## License
-[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
+[![License](https://img.shields.io/badge/License-BSD_2--Clause-orange.svg)](https://opensource.org/licenses/BSD-2-Clause)

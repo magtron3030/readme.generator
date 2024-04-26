@@ -2,7 +2,7 @@
 // If there is no license, return an empty string
 function generateMarkdown({title, description, installation, usage, license, contributing, tests, github, email}) {
 
-    
+    //another way to write if/else statements if switch statements. Looks cleaner.
   switch (license) {
       case 'MIT License':
           license = '[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)';
@@ -29,7 +29,7 @@ function generateMarkdown({title, description, installation, usage, license, con
              license = '[![License: CC0-1.0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)](http://creativecommons.org/publicdomain/zero/1.0/)'
              break;
 
-
+//default is like calling the final statement in the if/else statements
       default:
         console.log("invalidSelection")
 
