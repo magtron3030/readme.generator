@@ -6,9 +6,11 @@ I created this so the user could easily create a README file usuing the command-
 ## Usage
 Open the terminal in the develope folder to get started. Once there, type in 'node index.js' and a prompt will appear asking the user to enter a title. After that is put in and the return key has been hit, a series of other prompts will appear. Put in the correct information and when you're done, a filled out, professional README will have been created.
 
+## Screen Recording
+
 
 ## Links
-
+https://github.com/magtron3030/readme.generator
 
 
 
